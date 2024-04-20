@@ -1,5 +1,5 @@
 <div align="center" style="background-color: pink; padding: 20px; position: relative; text-align: center;">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TNDUS_CODE&fontSize=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=TNDUS_CODE&fontSize=70" width="100%"/> 
 
     
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#58A6FF; margin: 0;">👩‍💻 Welcome to TNDUS GitHub👩‍💻</h1> 
