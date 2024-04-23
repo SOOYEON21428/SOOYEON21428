@@ -8,11 +8,13 @@
 
 <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap; margin-top: 20px;"> <a href="https://github.com/SOOYEON21428/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOOYEON21428&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" /> 
 
-  <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
-  <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
+    <p style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /><br><br>
     <img src="https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
     <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /><br><br>
