@@ -5,10 +5,6 @@
 </div> 
 <h3 style="color:#fff;">"Hello, I'm Sooyeon Park, a frontend developer living a life filled with new challenges and changes."</h3> 
 
-<a href="https://github.com/SOOYEON21428/github-readme-stats"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SOOYEON21428&langs_count=8&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width="48%" /> 
-</a>
-
    <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
