@@ -4,9 +4,6 @@
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#58A6FF; margin: 0;">👩‍💻 Welcome to TNDUS GitHub👩‍💻</h1> 
 </div> 
 <h3 style="color:#fff;">"Hello, I'm Sooyeon Park, a frontend developer living a life filled with new challenges and changes."</h3> 
-
-<img src=https://github-readme-stats.vercel.app/api?username=SOOYEON21428&show_icons=true&theme=radical/>
-
    <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
