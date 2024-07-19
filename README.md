@@ -4,6 +4,15 @@
 <h1 style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color:#58A6FF; margin: 0;">👩‍💻 Welcome to TNDUS GitHub👩‍💻</h1> 
 </div> 
 <h3 style="color:#fff;">"Hello, I'm Sooyeon Park, a frontend developer living a life filled with new challenges and changes."</h3> 
+
+<h2 style="color:#58A6FF; margin-top: 40px;">🌟 Projects 🌟</h2>
+<p style="color:#fff;">I was the frontend lead for the social contribution promotion web app, "Together".</p>
+<ul style="color:#fff;">
+  <li><a href="https://github.com/TogethersProject/together_demo" style="color:#58A6FF;">GitHub Repository</a></li>
+  <li><a href="https://prezi.com/view/08T7igHAisIJQcN2n18M/" style="color:#58A6FF;">Project Presentation</a></li>
+  <li><a href="https://youtu.be/VhMTDkDKaz0" style="color:#58A6FF;">Demo Video</a></li>
+</ul>
+
    <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -36,7 +45,6 @@
    <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </div>
-
 
 
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=%20&fontSize=0" width="100%"/>
