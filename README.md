@@ -11,7 +11,7 @@
   <li><a href="https://github.com/TogethersProject/together_demo" style="color:#58A6FF;">GitHub Repository</a></li>
   <li><a href="https://prezi.com/view/08T7igHAisIJQcN2n18M/" style="color:#58A6FF;">Project Presentation</a></li>
   <li><a href="https://youtu.be/VhMTDkDKaz0" style="color:#58A6FF;">Demo Video</a></li>
-</ul>
+</ul> 
 
    <h2 style="color:#58A6FF; margin-top: 40px;">🚀 TECH 🚀</h2>
    <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
