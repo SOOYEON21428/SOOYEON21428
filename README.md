@@ -24,6 +24,7 @@
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <br>
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
