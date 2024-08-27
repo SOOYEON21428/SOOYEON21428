@@ -24,12 +24,12 @@
     <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
     <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" />
     <br>
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
     <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" />
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=styledcomponents" alt="Styled Components" />
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
   </div>
