@@ -17,21 +17,21 @@
 <div align="center" style="margin-top: 40px;">
   <h2 style="color:#58A6FF;">🚀 TECH STACK 🚀</h2>
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-    <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/Adobe_Dreamweaver-FF61F6?style=for-the-badge&logo=adobe-dreamweaver&logoColor=white" />
-    <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Oracle_DB-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Naver_Cloud-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" />
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
+    <img src="https://skillicons.dev/icons?i=react" alt="React" />
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
+    <img src="https://skillicons.dev/icons?i=dreamweaver" alt="Adobe Dreamweaver" />
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
+    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+    <img src="https://skillicons.dev/icons?i=cloud" alt="Naver Cloud" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </div>
 </div>
 
