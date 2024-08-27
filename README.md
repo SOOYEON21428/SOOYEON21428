@@ -23,14 +23,16 @@
     <img src="https://skillicons.dev/icons?i=css" alt="CSS3" />
     <img src="https://skillicons.dev/icons?i=react" alt="React" />
     <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" />
+    <img src="https://skillicons.dev/icons?i=vercel" alt="vercel" />
     <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
-    <img src="https://skillicons.dev/icons?i=dreamweaver" alt="Adobe Dreamweaver" />
+    <img src="https://skillicons.dev/icons?i=styledcomponents" alt="styledcomponents" />
+    <img src="https://skillicons.dev/icons?i=xd" alt="Adobe Dreamweaver" />
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
     <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-    <img src="https://skillicons.dev/icons?i=cloud" alt="Naver Cloud" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="Naver Cloud" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
   </div>
 </div>
