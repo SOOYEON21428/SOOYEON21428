@@ -30,7 +30,6 @@
     <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring" />
-    <img src="https://skillicons.dev/icons?i=oracle" alt="Oracle" />
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
     <img src="https://skillicons.dev/icons?i=aws" alt="Naver Cloud" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
