@@ -47,6 +47,7 @@
   <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
     <img src="https://skillicons.dev/icons?i=aws" alt="AWS" />
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" />
   </div>
 </div>
 
