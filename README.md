@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sooyeon Park!
+# 👋 Hi there, I'm Sooyeon Park
 
 ### 🌍 About Me
 - **Interests**: Web,  APP
