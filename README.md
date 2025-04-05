@@ -1,4 +1,4 @@
-# 👋 GREEN HUB
+# 🍀 GREEN HUB
 
 ### 🌍 About Me
 - **Interests**: Web, iOS, AOS
